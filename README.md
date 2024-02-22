@@ -1,3 +1,5 @@
+# House sales
+
 Web Scraping Project with Selenium for Data Collection on a House sales Website
 
 In this project, I will demonstrate how to utilize the Selenium library for web scraping on a house sales website. Selenium is an ideal choice for this task as it enables dynamic interaction and navigation on the site, mimicking actions similar to those of a regular user.
